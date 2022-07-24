@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ParameswaranP
-- 👀 I’m interested in Developing atomated Socity
+- 👀 I’m interested in Developing Automated Society
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me @parames.p@spritle.com, paramupanneerselvam@gmail.com
 
